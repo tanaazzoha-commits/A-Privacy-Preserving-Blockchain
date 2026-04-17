@@ -1,0 +1,2 @@
+python CreditCoin.py
+pause
